@@ -13,9 +13,6 @@ function App(){
   return (
     <div className="container mt-5">
       <Formulario />
-      <Formulario />
-      <Formulario />
-      <Formulario />
     </div>
   )
 }
